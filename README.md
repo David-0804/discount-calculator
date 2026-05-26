@@ -11,7 +11,7 @@ This script defines a function that calculates the final price after applying a 
 Make sure you have Python installed, then run:
 
 ```bash
-python discount_calculator.py
+python main.py
 ```
 
 ## ⚙️ Function
@@ -55,6 +55,6 @@ print(apply_discount(74.5, 20.0))
 ## 📁 File Structure
 
 ```
-discount_calculator.py   # Main script
+main.py                  # Main script
 README.md                # Project documentation
 ```
